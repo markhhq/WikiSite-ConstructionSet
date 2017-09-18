@@ -1,0 +1,104 @@
+ol {
+	padding-top: 0;
+}
+
+
+li {
+	padding: 1px;
+}
+
+p, ul {
+	font-family: sans-serif;
+	font-size: 0.875em;
+	line-height: 1.75em;
+}
+
+
+a {
+	 text-decoration: none;
+}
+
+div.thumb {
+	width: auto;
+	background-color: transparent;
+	clear: right;
+	float: right;
+	padding-bottom: 30px;
+	padding-left: 2%;
+}
+
+div.thumbinner {
+	float: right;
+	border:1px solid #c8ccd1;
+	padding: 3px;
+	background-color: #f8f9fa;
+	font-size: 94%;
+	text-align: center;
+	overflow: hidden;
+}
+div.thumbcaption {
+	border: 0;
+    line-height: 1.4em;
+    padding: 3px;
+	font-size: 0.875em;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#first_heading {
+	color:#000;
+	background: none;
+	font-weight: normal;
+	border-bottom: 1px solid #a2a9b1;
+}
+
+#subheading {
+	font-size: 80%;
+	padding-bottom: 1.5%;
+	font-family: sans-serif;
+
+}
+
+#disclaimer {
+	display: block;
+	text-indent: 40px;
+	font-family: sans-serif;
+	font-size: 0.875em;
+	margin-bottom: 1em;
+}
+
+#summary {
+	font-family: sans-serif;
+	font-size: 0.875em;
+	line-height: 1.75em;
+	padding-bottom: 1em;
+}
+
+#toctitle {
+	text-align: center;
+}
+
+#toctitle {
+	font-weight: bold;
+	font-family: sans-serif;
+	padding-top: 1em;
+}
+
+#toc {
+	background-color: rgb(230, 242, 255);
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	max-width: 10em;
+	font-family: sans-serif;
+	font-size: 0.875em;
+	line-height: 1.5em;
+}
+
+#categories, #benefits, #influence, #also{
+    color: #000;
+    font-weight: normal;
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    border-bottom: 1px solid #a2a9b1;
+}
